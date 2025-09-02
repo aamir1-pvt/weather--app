@@ -31,7 +31,7 @@ A simple weather application built using **HTML, CSS, and JavaScript** that fetc
 ---
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
