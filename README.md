@@ -39,12 +39,11 @@ A simple weather application built using **HTML, CSS, and JavaScript** that fetc
 1. Clone the repository:
    ```bash
    git clone https://github.com/aamir1-pvt/weather--app.git
-   Navigate into the project folder:
+   
+2.  Navigate into the project folder:
+       cd weather--app
 
-cd weather--app
-
-
-Open index.html in your browser (or use Live Server in VS Code).
+3. Open index.html in your browser (or use Live Server in VS Code).
 
 ⚡ How It Works
 
