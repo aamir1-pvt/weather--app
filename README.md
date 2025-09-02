@@ -1,11 +1,5 @@
 # 🌤️ Weather App
 
-![GitHub Repo stars](https://img.shields.io/github/stars/aamir1-pvt/weather--app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/aamir1-pvt/weather--app?style=social)
-![GitHub issues](https://img.shields.io/github/issues/aamir1-pvt/weather--app)
-![GitHub license](https://img.shields.io/github/license/aamir1-pvt/weather--app)
-![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow)
-
 A simple weather application built using **HTML, CSS, and JavaScript** that fetches real-time weather data from [WeatherAPI](https://www.weatherapi.com/).
 
 ---
